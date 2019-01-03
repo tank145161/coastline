@@ -33,7 +33,7 @@ choice('train', 'val', 'test')
 
 ![alt text][example_pic]
 
-[example_pic]: https://github.mit.edu/zhangfan/coastline/blob/master/dataExample.png "dataset example"
+[example_pic]: https://github.com/tank145161/coastline/blob/master/dataExample.png "dataset example"
 
 ## Run
 To train a model, `run main.py` with a DataFrame containing the 'path', 'label' and 'split' columns of each samples.
