@@ -8,9 +8,9 @@ This implements training, recovering, and evaluating a Unet model traning proces
 - `pip install -r requirements.txt`
  
 ## Data 
-This implementation accepts a pandas pickle table with data information for train, validation, and evaluation.
+This implementation accepts a pandas pickle table with image data for train, validation, and evaluation.
 
-The dataset should include columns with the names: "path", "name", "label", and "split".  
+The dataset should include columns: "path", "name", "label", and "split".  
 Format:
 
 ```bash
