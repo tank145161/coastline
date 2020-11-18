@@ -117,7 +117,7 @@ networkx==2.0
 nltk==3.2.4
 nonechucks==0.2.5
 nose==1.3.7
-notebook==5.0.0
+notebook==6.1.5
 numba==0.35.0+10.g143f70e90.dirty
 numexpr==2.6.2
 numpy==1.15.4
