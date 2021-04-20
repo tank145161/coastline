@@ -149,7 +149,7 @@ protobuf==3.6.1
 psutil==5.4.0
 psycopg2==2.7.3.2
 ptyprocess==0.5.2
-py==1.4.34
+py==1.10.0
 pycairo==1.13.3
 pycocotools==2.0
 pycodestyle==2.3.1
